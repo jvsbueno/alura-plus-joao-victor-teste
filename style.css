@@ -50,7 +50,6 @@ body {
 .principal-titulo{
     font-size: 28px;
     font-weight: 700;
-
 }
 
 .principal-aviso{
@@ -63,5 +62,5 @@ body {
 }
 
 .principal-caixa{
-    margin: 0 72px;
+    margin: 0 64px;
 }
