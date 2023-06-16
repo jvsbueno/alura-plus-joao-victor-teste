@@ -96,3 +96,14 @@ body {
 .secundaria-descricao{
     padding: 32px;
 }
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos-lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
