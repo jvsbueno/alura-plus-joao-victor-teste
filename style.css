@@ -105,5 +105,15 @@ body {
     display: flex;
     justify-content: center;
     list-style-type: none;
+    font-size: 32px;
+    color: var(--branco-principal);
 }
 
+.dispostivos-titulo{
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+
+.lista-item{
+
+}
