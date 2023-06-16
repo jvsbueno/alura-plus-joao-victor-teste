@@ -105,8 +105,6 @@ body {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    font-size: 32px;
-    color: var(--branco-principal);
 }
 
 .dispostivos-titulo{
@@ -115,5 +113,6 @@ body {
 }
 
 .lista-item{
-
+    font-size: 32px;
+    color: var(--branco-principal);
 }
